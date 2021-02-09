@@ -1,4 +1,4 @@
-# Bug: interaction between jest and @ledgerhq/hw-transport-node-hid
+# Bug reproduction: interaction between jest and @ledgerhq/hw-transport-node-hid
 
 In root of repository, run:
 
